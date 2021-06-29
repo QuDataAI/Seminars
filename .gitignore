@@ -1,2 +1,3 @@
 # To ignore any directories
 **/.ipynb_checkpoints/
+**/Thumbs.db
