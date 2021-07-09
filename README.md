@@ -4,4 +4,4 @@
 + + [задачи](https://github.com/QuDataAI/Seminars/blob/main/ru/Keras01/Keras%201.Tasks.ipynb)   
 + Keras 2. - [Свёрточные нейронные сети](https://github.com/QuDataAI/Seminars/blob/main/ru/Keras02/Keras%202.%20CNN.ipynb)
 + Word2Vec - [Word2Vec для отношения isa](https://github.com/QuDataAI/Seminars/blob/main/ru/Word2Vec/isa.ipynb)
-+ LSTM
++ LSTM - [LSTM в Keras](https://github.com/QuDataAI/Seminars/blob/main/ru/LSTM/Keras_2_LSTM.ipynb)
