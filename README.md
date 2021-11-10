@@ -6,3 +6,5 @@
 + Word2Vec - [Word2Vec для отношения isa](https://github.com/QuDataAI/Seminars/blob/main/ru/Word2Vec/isa.ipynb)
 + LSTM - [LSTM в Keras](https://github.com/QuDataAI/Seminars/blob/main/ru/LSTM/Keras_2_LSTM.ipynb)
 + SVM - [SVM - Машины опорных векторов](https://github.com/QuDataAI/Seminars/blob/main/ru/SVM/SVM.ipynb)
++ HeadAttention - [HeadAttention с презентацией](https://github.com/QuDataAI/Seminars/blob/main/ru/HeadAttention/HeadAttention.ipynb)
+[видео](https://www.youtube.com/watch?v=gWEuyMRcoME)
