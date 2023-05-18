@@ -11,4 +11,4 @@
 
 
 see also:
-* [qudata.com/](https://qudata.com/ml/ru/)
+* [qudata.com](https://qudata.com/ml/ru/)
