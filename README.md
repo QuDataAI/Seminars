@@ -8,3 +8,7 @@
 + SVM - [SVM - Машины опорных векторов](https://github.com/QuDataAI/Seminars/blob/main/ru/SVM/SVM.ipynb)
 + HeadAttention - [HeadAttention с презентацией](https://github.com/QuDataAI/Seminars/blob/main/ru/HeadAttention/HeadAttention.ipynb)
 [видео](https://www.youtube.com/watch?v=gWEuyMRcoME)
+
+
+see also:
+* [qudata.com/](https://qudata.com/ml/ru/)
