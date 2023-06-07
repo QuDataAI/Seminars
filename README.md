@@ -11,4 +11,5 @@
 
 
 see also:
-* [qudata.com](https://qudata.com/ml/ru/)
+* [Машинное обучение (youtube.com)](https://www.youtube.com/watch?v=BHR6C-Sc2dM&list=PL7J9AoLk9qCv48ws8neJgMay5e0lOrS-7)
+* [Машинное обучение и нейронные сети (qudata.com)](https://qudata.com/ml/ru/)
